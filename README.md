@@ -14,7 +14,7 @@ Welcome to my GitHub profile! I'm a JS developer passionate about building impac
 
 ## 🌐 **Connect with Me**
 
-- [LinkedIn]([https://www.linkedin.com/in/[your-linkedin]](https://www.linkedin.com/in/nicolas-cousin-3021b496/))
+- [LinkedIn]([https://www.linkedin.com/in/nicolas-cousin-3021b496/]])
 
 ---
 
