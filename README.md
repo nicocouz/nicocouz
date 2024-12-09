@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm a JS developer passionate about building impac
 
 ## 💻 **About Me**
 
-- 🌍 Based in Lausanne, Switzerland
+- 🌍 Based in **Lausanne, Switzerland** 🇨🇭
 - 🧑‍💻 I specialize in **Web Development, Chrome Extensions**.
 - 🛠️ My main tech stack: **Javascript, Node JS**.
 
