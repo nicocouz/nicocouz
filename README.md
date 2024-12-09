@@ -15,7 +15,7 @@ Welcome to my GitHub profile! I'm a JS developer passionate about building impac
 ## 🌐 **Connect with Me**
 
 <a href="https://www.linkedin.com/in/[your-linkedin]" target="_blank">
-  <img src="https://github.com/user-attachments/assets/07fa4b25-413d-4df1-8ac2-f6e0227824a7" alt="LI-In-Bug" />
+  <img src="https://github.com/user-attachments/assets/07fa4b25-413d-4df1-8ac2-f6e0227824a7" alt="LI-In-Bug" width="5%" />
 </a>
 
 ---
