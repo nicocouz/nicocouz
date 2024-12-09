@@ -1,6 +1,6 @@
 # Hi, I'm Nicolas 👋
 
-Welcome to my GitHub profile! I'm a JS developer passionate about building impactful projects with modern technologies.
+Welcome to my GitHub profile! I'm a Javascript developer passionate about building impactful projects with modern technologies.
 
 ---
 
