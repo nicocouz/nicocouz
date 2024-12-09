@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Nicolas 👋
 
-<!--
-**nicocouz/nicocouz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a JS developer passionate about building impactful projects with modern technologies.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 **About Me**
+
+- 🌍 Based in Lausanne, Switzerland
+- 🧑‍💻 I specialize in **[Web Development, Chrome Extensions]**.
+- 🛠️ My main tech stack: **[Javascript, Node JS]**.
+
+---
+
+## 🌐 **Connect with Me**
+
+- [LinkedIn]([https://www.linkedin.com/in/[your-linkedin]](https://www.linkedin.com/in/nicolas-cousin-3021b496/))
+
+---
+
+Feel free to reach out if you'd like to collaborate or chat! 😊
